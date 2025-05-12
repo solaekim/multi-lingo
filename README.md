@@ -10,4 +10,4 @@ This project seeks to leverage these technological advancements to address the i
 ## Project Duration
 January 27, 2025 - May 12, 2025
 ## License
-[Solae Kim](https://github.com/solaecloud/). You are permitted to use, modify, and distribute this work, provided that appropriate credit is given.
+[Sara S. Kim](https://github.com/srsk-sci/). You are permitted to use, modify, and distribute this work, provided that appropriate credit is given.
