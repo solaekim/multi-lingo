@@ -7,6 +7,8 @@ Traditionally, language learners have relied on paper or electronic dictionaries
 These tools offer rapid and accurate translations, along with real-time suggestions for words, idiomatic expressions, and example sentences, thus enabling a more intuitive and efficient learning experience. As a result, learners can significantly reduce the time spent searching for and verifying vocabulary, improving overall learning efficiency.
 
 This project seeks to leverage these technological advancements to address the inherent inefficiencies of traditional language learning approaches. By integrating AI-driven solutions, the application aims to create an environment where learners can study multiple languages simultaneously, minimizing the time and effort required while maximizing learning outcomes.
+## PDF
+https://github.com/solaekim/multi-lingo/blob/main/MultiLingo.pdf
 ## Project Duration
 January 27, 2025 - May 12, 2025
 ## License
