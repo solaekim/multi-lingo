@@ -1,5 +1,5 @@
 # Multilingual Learning Web Application
-## Abstract
+## Project Overview
 This project is grounded in my personal experience with foreign language acquisition, aiming to develop a web application that facilitates the efficient learning of multiple languages simultaneously.
 
 Traditionally, language learners have relied on paper or electronic dictionaries to look up individual words, a process that is both time-consuming and inefficient. However, the advent of AI-powered tools, such as ChatGPT, has ushered in a paradigm shift in language learning methodologies.
