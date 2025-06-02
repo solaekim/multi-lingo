@@ -1,12 +1,12 @@
 # Multilingual Learning Web Application
 ## Project Overview
-This project is grounded in my personal experience with foreign language acquisition, aiming to develop a web application that facilitates the efficient learning of multiple languages simultaneously.
+This project, inspired by my personal language learning experience, aims to create a web app that enables users to efficiently compare and study up to three languages simultaneously.
 
-Traditionally, language learners have relied on paper or electronic dictionaries to look up individual words, a process that is both time-consuming and inefficient. However, the advent of AI-powered tools, such as ChatGPT, has ushered in a paradigm shift in language learning methodologies.
+Unlike traditional multilingual translators, it provides accurate full-sentence translations along with real-time vocabulary, idiomatic expressions, and example sentence suggestions, supporting a more intuitive learning process.
 
-These tools offer rapid and accurate translations, along with real-time suggestions for words, idiomatic expressions, and example sentences, thus enabling a more intuitive and efficient learning experience. As a result, learners can significantly reduce the time spent searching for and verifying vocabulary, improving overall learning efficiency.
+By integrating AI-driven features, this tool addresses inefficiencies in conventional methods and offers a multilingual learning environment for better results with less effort.
 
-This project seeks to leverage these technological advancements to address the inherent inefficiencies of traditional language learning approaches. By integrating AI-driven solutions, the application aims to create an environment where learners can study multiple languages simultaneously, minimizing the time and effort required while maximizing learning outcomes.
+
 ## PDF
 https://github.com/solaekim/multi-lingo/blob/main/MultiLingo.pdf
 ## Project Duration
